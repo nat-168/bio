@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>⇤[👾, ℯ, 𝜑]⇥ </strong>
+  <strong>⇤[👾 – ℯ – 𝜑]⇥ </strong>
 </h1>
 I have deep knowledge in R & bash, knowledge in Python, SAS, GIS...<br>
 I have many project ideas accomplishable with front & back end coding knowledge – would love a listening ear to work with!
