@@ -1,24 +1,17 @@
-<h1 align="center">Hi there 👋, I'm Nat!</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Coder gif">
-</p>
+**River Strumwasser 👾**
 
 ---
 
-🎯 **About Me**
-- 🔭 I’m currently working on learning web development and contributing to open-source.
-- 🌱 I’m diving into React, Node.js, and Python.
-- 👯 I’m looking to collaborate on beginner-friendly projects.
-- 💬 Ask me about anything — I love helping others learn to code.
-- ⚡ Fun fact: I’m passionate about music and technology!
+**About Me**
+I have deep knowledge in R & bash, knowledge in Python, SAS, GIS...
+I have many code-able project ideas – would love a listening ear to work with
 
 ---
 
-📫 **How to reach me**
-- ✉️ Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+**Links**
+- ✉️ Email: [river.strum@gmail.com](mailto:river.strum@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/riverstrum)
+Personal Website: [riverstrum.com](https://riverstrum.com)
 
 ---
 
