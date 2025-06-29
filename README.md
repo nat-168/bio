@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>River Strumwasser </strong>👾
+  <strong>⇤[👾 ℯ, 𝜑]⇥ </strong>
 </h1>
 
 <h3><strong>About Me</strong></h3>
