@@ -2,24 +2,19 @@
 
 ---
 
-**About Me**
-I have deep knowledge in R & bash, knowledge in Python, SAS, GIS...
-I have many code-able project ideas – would love a listening ear to work with
+**About Me**<br>
+I have deep knowledge in R & bash, knowledge in Python, SAS, GIS...<br>
+I have many project ideas accomplishable with front & back end coding knowledge – would love a listening ear to work with!
 
 ---
+<p align="center">
+  <a href="https://linkedin.com/in/riverstrum">LinkedIn</a> |
+  <a href="mailto:river.strum@gmail.com">river.strum@gmail.com</a> |
+  <a href="https://riverstrum.com">Personal Website</a>
+</p>
 
-**Links**
-- ✉️ Email: [river.strum@gmail.com](mailto:river.strum@gmail.com)
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/riverstrum)
-Personal Website: [riverstrum.com](https://riverstrum.com)
-
----
-
-📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nat-168&show_icons=true&theme=default" alt="Nat's GitHub stats" />
 </p>
-
----
-
-⭐️ *Thanks for visiting my profile! Have a great day!*
+<br>
+💌 <em>Feel free to reach out if you would like to work with me :)</em>
