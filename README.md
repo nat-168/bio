@@ -1,4 +1,6 @@
-**River Strumwasser 👾**
+<p align="center">
+  <strong>River Strumwasser </strong>👾
+</p>
 
 ---
 
